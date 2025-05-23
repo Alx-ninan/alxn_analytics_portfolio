@@ -1,14 +1,66 @@
-# Alex Ninan - Analytics Portfolio
+# 💼 Alex Ninan's Data Analytics Portfolio
 
-## About
+Welcome to my GitHub portfolio! I'm **Alex Ninan**, a data analyst with a passion for uncovering insights and solving business challenges through data. I specialise in Python, SQL, and data visualisation tools, and bring a strong academic foundation with a recent MSc in Data Analytics.
 
-Hi, I'm Alex! I have a strong background in digital analytics with expertise in conversion rate optimisation and recently completed my MSc in Data Analytics at the University of Portsmouth. With over five years of experience in data-driven decision-making, I have developed expertise in leveraging analytics to enhance user experiences and business outcomes.
+This portfolio highlights some of my key projects involving real-world datasets, advanced analytics, and business intelligence. Explore the projects below to see how I approach data-driven problem-solving.
 
-I deepened my knowledge of machine learning, big data applications, and intelligent data analytics during my studies. I enjoy solving complex problems using statistical analysis, programming, and data visualisation techniques. My professional experience includes working with tools like Python, SQL, and Tableau platforms to extract meaningful insights and optimise performance.
+---
 
-Currently, I work as a part-time retail assistant at Primark while continuing to expand my expertise in data science and analytics. I am passionate about exploring new technologies, refining my coding skills, and applying data-driven methodologies to real-world challenges.
+## 📊 Projects
 
-This repository serves as a space to showcase my projects, share insights, and track my progress in data analytics, machine learning, and business intelligence.   
+### 1. 📦 E-Commerce Data Analysis
+**Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+**Objective:** Perform Exploratory Data Analysis (EDA) on e-commerce customer data to identify trends, customer segments, and key business insights.
 
+**Key Highlights:**
+- Cleaned and processed large transactional datasets.
+- Identified top products, sales trends, and user behaviour patterns.
+- Visualised metrics such as revenue distribution, user retention, and product performance.
 
-My CV [pdf](https://github.com/Alx-ninan/alx_portfolio/blob/main/Alex%20Ninan%20_%20CV%20_%202025.pdf)
+📁 *Notebook: Ecommerce_EDA.ipynb*
+
+---
+
+### 2. 🎬 DVD Rental Database Analysis
+**Tools:** SQL (PostgreSQL)  
+**Objective:** Analyze a DVD rental database using complex SQL queries to extract business insights.
+
+**Key Highlights:**
+- Wrote optimised queries for customer segmentation, rental trends, and revenue analysis.
+- Explored join operations, aggregation, subqueries, and window functions.
+- Demonstrated strong SQL capabilities for database reporting and business strategy.
+
+📁 *Notebook: DVD Rental SQL Queries.ipynb*
+
+---
+
+### 3. 🔍 Anomaly Detection in Financial Transactions (MSc Thesis)
+**Tools:** Python (Scikit-learn, TensorFlow), Ensemble Learning  
+**Objective:** Detect fraudulent financial transactions using an ensemble machine learning model.
+
+**Key Highlights:**
+- Blended predictions from six algorithms including autoencoders to create a meta-learner.
+- Analyzed 16M+ transactions with 89% overall accuracy.
+- Balanced supervised and unsupervised learning approaches for optimal detection.
+
+📁 [View Repository](https://github.com/Alx-ninan/AML-SemiSupervised-EnsembleModel.git)
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages & Tools:** Python, SQL, NoSQL, Tableau, Looker Studio, Power BI
+- **Machine Learning:** Scikit-learn, Semi-Supervised Machine Learning, Ensemble Methods
+- **Big Data:** Apache Spark, Hadoop
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: alxabrahm@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alex-ninan-03784696/)  
+- 🧠 [Resume (PDF)](link-to-online-resume-if-hosted)
+
+---
+
+Feel free to explore the repositories and reach out if you’d like to collaborate or discuss data opportunities. Thanks for visiting!
