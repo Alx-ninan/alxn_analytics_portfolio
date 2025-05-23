@@ -17,7 +17,7 @@ This portfolio highlights some of my key projects involving real-world datasets,
 - Identified top products, sales trends, and user behaviour patterns.
 - Visualised metrics such as revenue distribution, user retention, and product performance.
 
-📁 *Notebook: Ecommerce_EDA.ipynb*
+📁 [View Repository](https://github.com/Alx-ninan/AML-SemiSupervised-EnsembleModel.git)
 
 ---
 
@@ -30,11 +30,26 @@ This portfolio highlights some of my key projects involving real-world datasets,
 - Explored join operations, aggregation, subqueries, and window functions.
 - Demonstrated strong SQL capabilities for database reporting and business strategy.
 
-📁 *Notebook: DVD Rental SQL Queries.ipynb*
+📁 [View Repository](https://github.com/Alx-ninan/AML-SemiSupervised-EnsembleModel.git)
 
 ---
 
-### 3. 🔍 Anomaly Detection in Financial Transactions (MSc Thesis)
+
+### 3. 📊 Superstore US Data Analysis – Tableau Project  
+**Tools:** Tableau Desktop, Microsoft Excel  
+**Objective:** Create an interactive Tableau dashboard using the Superstore dataset to analyze sales, profitability, customer segments, shipping performance, and regional trends across the U.S.  
+
+**Key Highlights:**
+- Built multiple interactive dashboards covering sales trends, regional performance, customer segmentation, and shipping analysis.
+- Identified key business insights such as consistently underperforming sub-categories and regional profitability differences.
+- Highlighted actionable opportunities like optimising shipping modes and targeting high-return regions for efficiency gains.
+- Delivered a user-friendly, filterable Tableau interface for stakeholders to interact with data and explore trends.
+
+📁 [View Repository](https://github.com/Alx-ninan/AML-SemiSupervised-EnsembleModel.git)  
+
+---
+
+### 4. 🔍 Anomaly Detection in Financial Transactions (MSc Thesis)
 **Tools:** Python (Scikit-learn, TensorFlow), Ensemble Learning  
 **Objective:** Detect fraudulent financial transactions using an ensemble machine learning model.
 
