@@ -74,7 +74,7 @@ This portfolio highlights some of my key projects involving real-world datasets,
 
 - 📧 Email: alxabrahm@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alex-ninan-03784696/)  
-- 🧠 [Resume (PDF)](link-to-online-resume-if-hosted)
+- 🧠 [Resume (PDF)](https://github.com/Alx-ninan/alxn_analytics_portfolio/blob/main/2025%20-%20Alex%20Ninan%20Resume%20-DA.pdf)
 
 ---
 
