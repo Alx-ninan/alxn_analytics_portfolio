@@ -62,6 +62,20 @@ This portfolio highlights some of my key projects involving real-world datasets,
 
 ---
 
+5. 🧮 SQL Business Analytics – Retail Demo Database  
+**Tools:** Jupyter Notebook, SQLite, ipython-sql  
+**Objective:** Use SQL to solve real-world business problems using a fictional retail dataset.
+
+**Key Highlights:**
+- Created and populated a structured relational database including Customers, Orders, Payments, and Shipments tables.
+- Wrote business-focused SQL queries to analyze customer spending and order patterns.
+- Demonstrated practical use of SQL concepts such as joins, aggregations, filtering, window functions, and date calculations.
+- Presented insights such as top spending customers and monthly revenue trends.
+ 
+📁 [View SQL Queries](https://github.com/Alx-ninan/demo-database-acme.git)
+
+--- 
+
 ## 🛠️ Technical Skills
 
 - **Languages & Tools:** Python, SQL, NoSQL, Tableau, Looker Studio, Power BI
