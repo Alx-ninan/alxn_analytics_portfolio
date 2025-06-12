@@ -17,7 +17,7 @@ This portfolio highlights some of my key projects involving real-world datasets,
 - Identified top products, sales trends, and user behaviour patterns.
 - Visualised metrics such as revenue distribution, user retention, and product performance.
 
-📁 [View Repository](https://github.com/Alx-ninan/ecommerce-data-exploration.git)
+📁 [View Python file](https://github.com/Alx-ninan/ecommerce-data-exploration.git)
 
 ---
 
@@ -30,7 +30,7 @@ This portfolio highlights some of my key projects involving real-world datasets,
 - Explored join operations, aggregation, subqueries, and window functions.
 - Demonstrated strong SQL capabilities for database reporting and business strategy.
 
-📁 [View Repository](https://github.com/Alx-ninan/postgresql-data-projects.git)
+📁 [View SQL Queries](https://github.com/Alx-ninan/postgresql-data-projects.git)
 
 ---
 
@@ -45,7 +45,7 @@ This portfolio highlights some of my key projects involving real-world datasets,
 - Highlighted actionable opportunities like optimising shipping modes and targeting high-return regions for efficiency gains.
 - Delivered a user-friendly, filterable Tableau interface for stakeholders to interact with data and explore trends.
 
-📁 [View Repository](https://github.com/Alx-ninan/tableau-superstore-analysis.git)  
+📁 [View Visualisation](https://github.com/Alx-ninan/tableau-superstore-analysis.git)  
 
 ---
 
@@ -58,7 +58,7 @@ This portfolio highlights some of my key projects involving real-world datasets,
 - Analyzed 16M+ transactions with 89% overall accuracy.
 - Balanced supervised and unsupervised learning approaches for optimal detection.
 
-📁 [View Repository](https://github.com/Alx-ninan/AML-SemiSupervised-EnsembleModel.git)
+📁 [View Codes](https://github.com/Alx-ninan/AML-SemiSupervised-EnsembleModel.git)
 
 ---
 
