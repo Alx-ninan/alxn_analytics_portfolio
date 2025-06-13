@@ -1,4 +1,4 @@
-# 💼 Alex Ninan's Data Analytics Portfolio
+# Alex Ninan - Data Analytics Portfolio
 
 Welcome to my GitHub portfolio! I'm **Alex Ninan**, a data analyst with a passion for uncovering insights and solving business challenges through data. I specialise in Python, SQL, and data visualisation tools, and bring a strong academic foundation with a recent MSc in Data Analytics.
 
