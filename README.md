@@ -62,7 +62,7 @@ This portfolio highlights some of my key projects involving real-world datasets,
 
 ---
 
-5. 🧮 SQL Business Analytics – Retail Demo Database  
+### 5. 🧮 SQL Business Analytics – Retail Demo Database  
 **Tools:** Jupyter Notebook, SQLite, ipython-sql  
 **Objective:** Use SQL to solve real-world business problems using a fictional retail dataset.
 
